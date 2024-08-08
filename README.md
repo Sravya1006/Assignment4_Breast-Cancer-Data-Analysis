@@ -79,7 +79,7 @@ Grid Search Cross-Validation (`GridSearchCV`) is used to optimize the hyperparam
 
 ## Deployment
 
-The project is deployed locally using Streamlit, allowing for an interactive user interface. For deployment on a remote server, consider using platforms like Heroku, AWS, or Google Cloud.
+The project is deployed locally using Streamlit, allowing for an interactive user interface.
 
 ## Version Control
 
